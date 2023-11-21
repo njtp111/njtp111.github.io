@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Technology, SHandong Normal University, 2021
 * M.S. in Artificial Intelligence, Southeast University, 2024 (expected)
-* M.S. in  Information Technology Systems， Monash University 2024 (expected)
+* M.S. in  Information Technology Systems, Monash University 2024 (expected)
 
 Work experience
 ======
@@ -26,14 +26,14 @@ Work experience
   * Investigated and tested various methods based on molecular representation learning
   * Attempted to enhance various molecular sampling methods across many datasets to achieve improved performance
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
