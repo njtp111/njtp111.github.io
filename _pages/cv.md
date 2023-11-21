@@ -15,7 +15,7 @@ Education
 * M.S. in Artificial Intelligence, Southeast University, 2024 (expected)
 * M.S. in  Information Technology Systems, Monash University 2024 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * December 2022 – January 2023: neoX Biotech
   * Investigated and tested on hERG ion channel prediction models
@@ -24,7 +24,7 @@ Work experience
 * May 2023 – August 2023: Research Assistant
   * Investigated and tested various protein pocket-based molecular sampling methods
   * Investigated and tested various methods based on molecular representation learning
-  * Attempted to enhance various molecular sampling methods across many datasets to achieve improved performance
+  * Attempted to enhance various molecular sampling methods across many datasets to achieve improved performance -->
   
 <!-- Skills
 ======
@@ -35,11 +35,11 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
