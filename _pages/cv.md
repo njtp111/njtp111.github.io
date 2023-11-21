@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, SHandong Normal University, 2021
+* M.S. in Artificial Intelligence, Southeast University, 2024 (expected)
+* M.S. in  Information Technology Systems， Monash University 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2022 – January 2023: neoX Biotech
+  * Investigated and tested on hERG ion channel prediction models
+  * Investigated and tested various methods of molecular fingerprints and graph neural networks to represent molecules
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 – August 2023: Research Assistant
+  * Investigated and tested various protein pocket-based molecular sampling methods
+  * Investigated and tested various methods based on molecular representation learning
+  * Attempted to enhance various molecular sampling methods across many datasets to achieve improved performance
   
 Skills
 ======
@@ -42,18 +41,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
