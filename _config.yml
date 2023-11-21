@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiacong Mi 宓家聪"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "M.Sc. student at SEU-Monash"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mnuFSAQAAAAJ"
-  email            : "jiacongmi@gmail.com"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Jiacong-Mi"
   uri              :
   bitbucket        :
